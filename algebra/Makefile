@@ -3,3 +3,6 @@ all:
 
 dev:
 	jupyter notebook
+
+publish:
+	mv algebra.slides.html index.html
