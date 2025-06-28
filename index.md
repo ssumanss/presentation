@@ -10,3 +10,4 @@
 Challenges](https://sandeepsuman.com/presentation/stem_india.pdf)
 - [Mathematics in STEM and Project-Based
 Learning](https://sandeepsuman.com/presentation/stem_maths.pdf)
+- [Design Thinking for Middle School STEM](https://sandeepsuman.com/presentation/stem_design.pdf)
