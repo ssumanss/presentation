@@ -9,4 +9,4 @@
 - [STEM Education in India: A Path to Innovation](https://sandeepsuman.com/presentation/stem_india.pdf)
 - [Mathematics in STEM and Project-Based
 Learning](https://sandeepsuman.com/presentation/stem_maths.pdf)
-- [DesignThinkingforSchoolSTEM](https://sandeepsuman.com/presentation/stem_design.pdf)
+- [Design Thinking for School STEM](https://sandeepsuman.com/presentation/stem_design.pdf)
